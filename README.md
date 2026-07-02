@@ -1,6 +1,6 @@
 CSV Data Analysis with Pandas
 
-A Python-based data analysis project that demonstrates how to read, clean, and analyze CSV data using the Pandas library. This project was developed as **Task 2** of my Python Internship.
+A Python-based data analysis project that demonstrates how to read, clean, and analyze CSV data using the Pandas library. This project was developed as Task 2 of my Python Internship.
 
 
  Project Overview
@@ -82,17 +82,9 @@ Average Salary: 52500.0
 
 Project Screenshots
 
-Employee CSV Dataset
-
-[Employee Dataset](Screenshots/input-csv.png)
-
 Terminal Output
 
-[Terminal Output](Screenshots/terminal-output.png)
-
-Cleaned Data Output
-
-[Cleaned Data](Screenshots/cleaned-data.png)
+https://github.com/K-Apoorva-reddy/Python-data-handling/blob/main/output.png?raw=true
 
 Learning Outcomes
 
